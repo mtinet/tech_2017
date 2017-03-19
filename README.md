@@ -7,3 +7,5 @@
 ---
 수업자료
 ---
+## 1학기
+ 1. [오픈소스 SW/HW](https://youtu.be/uzxkh0Kuxw4)
