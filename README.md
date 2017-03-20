@@ -8,7 +8,7 @@
 ---
 ## 선생님 관련 참고자료  
 
-  [1.기술샘시간표](https://docs.google.com/presentation/d/1Cvb758ILrGwJwOGEWjotMPziGf45rx0jRTh863w12dc/edit?usp=sharing)  
+  [1. 기술샘시간표](https://docs.google.com/presentation/d/1Cvb758ILrGwJwOGEWjotMPziGf45rx0jRTh863w12dc/edit?usp=sharing)  
   [2. 수업진도표](https://docs.google.com/spreadsheets/d/1-CA9rqCuhi_lfbfPPH5vlXms9xTWV8lpVEOSls11wp0/edit?usp=sharing)  
 
 ---
