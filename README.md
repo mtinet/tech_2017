@@ -3,7 +3,7 @@
 ---
 ## 수업자료  
 ### 1학기
-  [0. EBS 소프트웨어](https://www.youtube.com/watch?v=0U0ve_HFUL8&index=1&list=PLvNzObWMMx6sOn-8v4n-03AvN0WJesphL)
+  [0. EBS 소프트웨어](https://www.youtube.com/watch?v=0U0ve_HFUL8&index=1&list=PLvNzObWMMx6sOn-8v4n-03AvN0WJesphL)  
   [1. 오픈소스 SW/HW](https://youtu.be/uzxkh0Kuxw4)  
   [2. Arduino IDE Install](https://youtu.be/maocBcSlXoI)  
   
