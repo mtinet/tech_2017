@@ -1,12 +1,20 @@
 # 영등포고등학교 기술수업 자료실
 
 ---
-## 수업자료  
+## 강의영상자료  
 ### 1학기
   [0. EBS 소프트웨어](https://www.youtube.com/watch?v=0U0ve_HFUL8&index=1&list=PLvNzObWMMx6sOn-8v4n-03AvN0WJesphL)  
-  [1. 오픈소스 SW/HW](https://youtu.be/uzxkh0Kuxw4)  
+  [1. Open Source  SW/HW](https://youtu.be/uzxkh0Kuxw4) 
   [2. Arduino IDE Install](https://youtu.be/maocBcSlXoI)  
+  [3. Blink]( https://youtu.be/PdWDSBaDjAk)
   
+---
+## 수업자료
+Lesson 1 : Open Source SW & HW - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxL6RUZcV3rNwly1)    
+Lesson 2 : Arduino IDE Install - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxNV--n-ezM_aEAB)    
+Lesson 3 : Blink - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxT8RCbxqH9Ss6vo) 
+
+
 ---
 ## 선생님 관련 참고자료  
 
