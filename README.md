@@ -9,8 +9,9 @@
   [3. Blink]( https://youtu.be/PdWDSBaDjAk)  
     * [3-1. Mission Check](https://youtu.be/gQwkho2GFw4)  
   [4. Traffic Sign](https://youtu.be/-ZfHFw6LWpg)  
-    * 4-1. Mission Check  
-  5. Sensing-Processing-Actuating, Serial Monitor  
+    * [4-1. Mission Check]()  
+  [5. Sensing-Processing-Actuating, Serial Monitor]()  
+  
   
 ---
 ## 수업자료
