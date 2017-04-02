@@ -7,9 +7,9 @@
   [1. Open Source  SW/HW](https://youtu.be/uzxkh0Kuxw4)  
   [2. Arduino IDE Install](https://youtu.be/maocBcSlXoI)  
   [3. Blink]( https://youtu.be/PdWDSBaDjAk)  
-    [3-1. Mission Complete](https://youtu.be/gQwkho2GFw4)  
+    * [3-1. Mission Complete](https://youtu.be/gQwkho2GFw4)  
   [4. Traffic Sign](https://youtu.be/-ZfHFw6LWpg)  
-    4-1. Mission Complete  
+    - 4-1. Mission Complete  
   5. Sensing-Processing-Actuating, Serial Monitor  
   
 ---
