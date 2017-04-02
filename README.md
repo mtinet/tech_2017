@@ -19,7 +19,7 @@
   Lesson 3 : Blink - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxdWAat3HAwLYn5c)  
   Lesson 4 : Traffic Sign - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyb1Uf4ST8qIkgfE)  
   Lesson 5 : Sensing-Processing-Actuating, Serial Monitor - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyeYfiT7ebj9rYrQ)  
-    * [프로그램 다운로드](mtinet.github.io/tech)  
+    * [프로그램 다운로드](https://github.com/mtinet/tech)  
     
 ---
 ## 선생님 관련 참고자료  
