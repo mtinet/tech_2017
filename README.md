@@ -19,8 +19,10 @@
   Lesson 2 : Arduino IDE Install - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxNV--n-ezM_aEAB)    
   Lesson 3 : Blink - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxdWAat3HAwLYn5c)  
   Lesson 4 : Traffic Sign - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyb1Uf4ST8qIkgfE)  
+    * [프로그램 복사하기, Traffic Sign](https://github.com/mtinet/tech/blob/master/Traffic_Sign/Traffic_Sign.ino)
   Lesson 5 : Sensing-Processing-Actuating, Serial Monitor - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyeYfiT7ebj9rYrQ)  
-    * [프로그램 다운로드](https://github.com/mtinet/tech)  
+    * [프로그램 복사하기, CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)  
+    * [프로그램 복사하기, CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)  
     
 ---
 ## 선생님 관련 참고자료  
