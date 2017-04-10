@@ -9,9 +9,9 @@
 [1. Open Source  SW/HW](https://youtu.be/uzxkh0Kuxw4)  
 [2. Arduino IDE Install](https://youtu.be/maocBcSlXoI)  
 [3. Blink]( https://youtu.be/PdWDSBaDjAk)  
-    - [3-1. Mission Check](https://youtu.be/gQwkho2GFw4)  
+    *[3-1. Mission Check](https://youtu.be/gQwkho2GFw4)  
 [4. Traffic Sign](https://youtu.be/-ZfHFw6LWpg)  
-    - [4-1. Mission Check](https://youtu.be/36Rng_rK9Ac)  
+    * [4-1. Mission Check](https://youtu.be/36Rng_rK9Ac)  
 [5. Sensing-Processing-Actuating, Serial Monitor](https://youtu.be/d-yImQZi-rE)  
   
 ### 2학기  
