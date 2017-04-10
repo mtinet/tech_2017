@@ -3,16 +3,14 @@
 ---
 ## 강의영상자료  
 ### 1학기
-  [0. EBS 소프트웨어](https://www.youtube.com/watch?v=0U0ve_HFUL8&index=1&list=PLvNzObWMMx6sOn-8v4n-03AvN0WJesphL)  
-  [1. Open Source  SW/HW](https://youtu.be/uzxkh0Kuxw4)  
-  [2. Arduino IDE Install](https://youtu.be/maocBcSlXoI)  
-  [3. Blink]( https://youtu.be/PdWDSBaDjAk)  
-+ [3-1. Mission Check](https://youtu.be/gQwkho2GFw4)+  
-
-  [4. Traffic Sign](https://youtu.be/-ZfHFw6LWpg)  
-+ [4-1. Mission Check](https://youtu.be/36Rng_rK9Ac)+  
-
-  [5. Sensing-Processing-Actuating, Serial Monitor](https://youtu.be/d-yImQZi-rE)  
+0. [EBS 소프트웨어](https://www.youtube.com/watch?v=0U0ve_HFUL8&index=1&list=PLvNzObWMMx6sOn-8v4n-03AvN0WJesphL)  
+1. [Open Source  SW/HW](https://youtu.be/uzxkh0Kuxw4)  
+2. [Arduino IDE Install](https://youtu.be/maocBcSlXoI)  
+3. [Blink]( https://youtu.be/PdWDSBaDjAk)  
+  * 3-1. [Mission Check](https://youtu.be/gQwkho2GFw4)  
+4. Traffic Sign](https://youtu.be/-ZfHFw6LWpg)  
+  * 4-1. [Mission Check](https://youtu.be/36Rng_rK9Ac)  
+5. [Sensing-Processing-Actuating, Serial Monitor](https://youtu.be/d-yImQZi-rE)  
   
   
 ---
