@@ -2,7 +2,9 @@
 
 ---
 ## 강의영상자료  
+
 ### 1학기  
+(수업영상 링크를 제공합니다.)  
 
 0. [EBS 소프트웨어](https://www.youtube.com/watch?v=0U0ve_HFUL8&index=1&list=PLvNzObWMMx6sOn-8v4n-03AvN0WJesphL)  
 1. [Open Source  SW/HW](https://youtu.be/uzxkh0Kuxw4)  
@@ -16,12 +18,13 @@
   
 ---
 ## 수업자료
-1. Open Source SW & HW - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxL6RUZcV3rNwly1)    
-2. Arduino IDE Install - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxNV--n-ezM_aEAB)    
-3. Blink - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxdWAat3HAwLYn5c)    
-4. Traffic Sign - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyb1Uf4ST8qIkgfE)    
+(수업PPT와 스케치(프로그램) 링크를 제공합니다.)
+1. [Open Source SW & HW](https://1drv.ms/p/s!AuczxMq8lCmfqxL6RUZcV3rNwly1)    
+2. [Arduino IDE Install](https://1drv.ms/p/s!AuczxMq8lCmfqxNV--n-ezM_aEAB)    
+3. [Blink](https://1drv.ms/p/s!AuczxMq8lCmfqxdWAat3HAwLYn5c)    
+4. [Traffic Sign](https://1drv.ms/p/s!AuczxMq8lCmfqyb1Uf4ST8qIkgfE)    
   *4-1 [Traffic Sign](https://github.com/mtinet/tech/blob/master/Traffic_Sign/Traffic_Sign.ino)*    
-5. Sensing-Processing-Actuating, Serial Monitor - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyeYfiT7ebj9rYrQ)    
+5. [Sensing-Processing-Actuating, Serial Monitor](https://1drv.ms/p/s!AuczxMq8lCmfqyeYfiT7ebj9rYrQ)    
   *5-1 [CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)*    
   *5-2 [CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)*    
     
