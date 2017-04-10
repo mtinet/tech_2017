@@ -15,19 +15,19 @@
   
 ---
 ## 수업자료
-Lesson 1 : Open Source SW & HW - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxL6RUZcV3rNwly1)    
-Lesson 2 : Arduino IDE Install - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxNV--n-ezM_aEAB)    
-Lesson 3 : Blink - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxdWAat3HAwLYn5c)    
-Lesson 4 : Traffic Sign - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyb1Uf4ST8qIkgfE)    
+1. Open Source SW & HW - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxL6RUZcV3rNwly1)    
+2. Arduino IDE Install - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxNV--n-ezM_aEAB)    
+3. Blink - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqxdWAat3HAwLYn5c)    
+4. Traffic Sign - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyb1Uf4ST8qIkgfE)    
   *4-1 [Traffic Sign](https://github.com/mtinet/tech/blob/master/Traffic_Sign/Traffic_Sign.ino)*    
-Lesson 5 : Sensing-Processing-Actuating, Serial Monitor - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyeYfiT7ebj9rYrQ)    
+5. Sensing-Processing-Actuating, Serial Monitor - [웹에서 보기](https://1drv.ms/p/s!AuczxMq8lCmfqyeYfiT7ebj9rYrQ)    
   *5-1 [CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)*    
   *5-2 [CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)*    
     
 ---
 ## 선생님 관련 참고자료  
-[1. 기술샘시간표](https://docs.google.com/presentation/d/1Cvb758ILrGwJwOGEWjotMPziGf45rx0jRTh863w12dc/edit?usp=sharing)  
-[2. 수업진도표](https://docs.google.com/spreadsheets/d/1-CA9rqCuhi_lfbfPPH5vlXms9xTWV8lpVEOSls11wp0/edit?usp=sharing)  
+1. [기술샘시간표](https://docs.google.com/presentation/d/1Cvb758ILrGwJwOGEWjotMPziGf45rx0jRTh863w12dc/edit?usp=sharing)  
+2. [수업진도표](https://docs.google.com/spreadsheets/d/1-CA9rqCuhi_lfbfPPH5vlXms9xTWV8lpVEOSls11wp0/edit?usp=sharing)  
 
 
 ---
