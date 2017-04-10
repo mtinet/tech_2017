@@ -2,7 +2,7 @@
 
 ---
 ## 강의영상자료  
-(수업영상 링크를 제공합니다.)  
+수업영상 링크를 제공합니다.  
 
 ### 1학기  
 0. [EBS 소프트웨어](https://www.youtube.com/watch?v=0U0ve_HFUL8&index=1&list=PLvNzObWMMx6sOn-8v4n-03AvN0WJesphL)  
@@ -18,7 +18,7 @@
   
 ---
 ## 수업자료
-(수업PPT와 스케치(프로그램) 링크를 제공합니다.)
+수업PPT와 스케치(프로그램) 링크를 제공합니다.  
 1. [Open Source SW & HW](https://1drv.ms/p/s!AuczxMq8lCmfqxL6RUZcV3rNwly1)    
 2. [Arduino IDE Install](https://1drv.ms/p/s!AuczxMq8lCmfqxNV--n-ezM_aEAB)    
 3. [Blink](https://1drv.ms/p/s!AuczxMq8lCmfqxdWAat3HAwLYn5c)    
