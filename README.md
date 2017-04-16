@@ -30,7 +30,7 @@
 [5. Sensing-Processing-Actuating, Serial Monitor](https://1drv.ms/p/s!AuczxMq8lCmfqyeYfiT7ebj9rYrQ)    
     [* 5-1 CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)   
     [* 5-2 CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)         
-[5. Pull Up, Pull Down Resistance, Electronic Circuit](https://1drv.ms/p/s!AuczxMq8lCmfq0pTrEKxxx5nzuzs)   
+[6. Pull Up, Pull Down Resistance, Electronic Circuit](https://1drv.ms/p/s!AuczxMq8lCmfq0y7DsdFs1U0Pi7w)   
     
 ---
 ## 선생님 관련 참고자료  
