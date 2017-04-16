@@ -14,7 +14,7 @@
     [* 4-1. Mission Check](https://youtu.be/36Rng_rK9Ac)  
 [5. Sensing-Processing-Actuating, Serial Monitor](https://youtu.be/d-yImQZi-rE)  
     [* 5-1. Mission Check](https://youtu.be/t2YHQMZ9MCQ)  
-[6. Pull Up, Pull Down Resistance, Electronic Circuit](https://youtu.be/d-yImQZi-rE)  
+[6. Pull Up, Pull Down Resistance, Electronic Circuit]()  
   
 ### 2학기  
   
