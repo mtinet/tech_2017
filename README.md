@@ -22,9 +22,9 @@
 ## 수업자료
 수업PPT와 스케치(프로그램) 링크를 제공합니다.  
 
-[1. Open Source SW & HW](https://1drv.ms/p/s!AuczxMq8lCmfq0-pgv_C1Km8T97M)    
-[2. Arduino IDE Install](https://1drv.ms/p/s!AuczxMq8lCmfq1BlMMDwVv7EU3HI)    
-[3. Blink](https://1drv.ms/p/s!AuczxMq8lCmfq1EOoLqqhV8pu-H1)    
+[1. Open Source SW & HW](https://1drv.ms/p/s!AuczxMq8lCmfq0-pgv_C1Km8T97M)  
+[2. Arduino IDE Install](https://1drv.ms/p/s!AuczxMq8lCmfq1BlMMDwVv7EU3HI)  
+[3. Blink](https://1drv.ms/p/s!AuczxMq8lCmfq1EOoLqqhV8pu-H1)  
 [4. Traffic Sign](https://1drv.ms/p/s!AuczxMq8lCmfq1Kkru-xYkOQcAFg)    
     [* 4-1 Traffic Sign](https://github.com/mtinet/tech/blob/master/Traffic_Sign/Traffic_Sign.ino)   
 [5. Sensing-Processing-Actuating, Serial Monitor](https://1drv.ms/p/s!AuczxMq8lCmfq1Kkru-xYkOQcAFg)    
