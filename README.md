@@ -22,15 +22,16 @@
 ## 수업자료
 수업PPT와 스케치(프로그램) 링크를 제공합니다.  
 
-[1. Open Source SW & HW](https://1drv.ms/p/s!AuczxMq8lCmfqxL6RUZcV3rNwly1)    
-[2. Arduino IDE Install](https://1drv.ms/p/s!AuczxMq8lCmfqxNV--n-ezM_aEAB)    
-[3. Blink](https://1drv.ms/p/s!AuczxMq8lCmfqxdWAat3HAwLYn5c)    
-[4. Traffic Sign](https://1drv.ms/p/s!AuczxMq8lCmfqyb1Uf4ST8qIkgfE)    
+[1. Open Source SW & HW](https://1drv.ms/p/s!AuczxMq8lCmfq0-pgv_C1Km8T97M)    
+[2. Arduino IDE Install](https://1drv.ms/p/s!AuczxMq8lCmfq1BlMMDwVv7EU3HI)    
+[3. Blink](https://1drv.ms/p/s!AuczxMq8lCmfq1EOoLqqhV8pu-H1)    
+[4. Traffic Sign](https://1drv.ms/p/s!AuczxMq8lCmfq1Kkru-xYkOQcAFg)    
     [* 4-1 Traffic Sign](https://github.com/mtinet/tech/blob/master/Traffic_Sign/Traffic_Sign.ino)   
-[5. Sensing-Processing-Actuating, Serial Monitor](https://1drv.ms/p/s!AuczxMq8lCmfqyeYfiT7ebj9rYrQ)    
+[5. Sensing-Processing-Actuating, Serial Monitor](https://1drv.ms/p/s!AuczxMq8lCmfq1Kkru-xYkOQcAFg)    
     [* 5-1 CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)   
     [* 5-2 CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)         
-[6. Pull Up, Pull Down Resistance, Electronic Circuit](https://1drv.ms/p/s!AuczxMq8lCmfq0y7DsdFs1U0Pi7w)   
+[6. Pull Up, Pull Down Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1RA-P_Tt5kKG6gx)   
+[7._Electronic Circuit, Tool, Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1WgglbgapIGWUuu)   
     
 ---
 ## 선생님 관련 참고자료  
