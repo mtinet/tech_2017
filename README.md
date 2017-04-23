@@ -43,7 +43,7 @@
     [* 5-2 CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)         
 [6. Pull Up, Pull Down Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1RA-P_Tt5kKG6gx)   
     [* 6-1 CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)  
-[7._Electronic Circuit, Tool, Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1WgglbgapIGWUuu)   
+[7._Electronic Circuit, Tool, Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1kQgj0a6jpadmAf)   
     
  
 ---
