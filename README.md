@@ -18,9 +18,7 @@
     [* 6-1. Mission Check]()  
 [7. Electronic Circuit]()
   
-### 2학기  
-  
----
+
 ## 수업자료
 수업PPT와 스케치(프로그램) 링크를 제공합니다.  
 
@@ -36,7 +34,14 @@
     [* 6-1 CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)  
 [7._Electronic Circuit, Tool, Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1WgglbgapIGWUuu)   
     
+ 
 ---
+
+### 2학기  
+  
+---
+
+
 ## 선생님 관련 참고자료  
 [1. 기술샘시간표](https://docs.google.com/presentation/d/1Cvb758ILrGwJwOGEWjotMPziGf45rx0jRTh863w12dc/edit?usp=sharing)  
 [2. 수업진도표](https://docs.google.com/spreadsheets/d/1-CA9rqCuhi_lfbfPPH5vlXms9xTWV8lpVEOSls11wp0/edit?usp=sharing)  
