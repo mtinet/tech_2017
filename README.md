@@ -26,7 +26,7 @@
 [5. Sensing-Processing-Actuating, Serial Monitor](https://youtu.be/d-yImQZi-rE)  
     [* 5-1. Mission Check](https://youtu.be/t2YHQMZ9MCQ)  
 [6. Pull Up, Pull Down Resistance](https://youtu.be/ecgleFgcQNU)  
-    [* 6-1. Mission Check]()  
+    [* 6-1. Mission Check](https://youtu.be/5X80tPK4B-Q)   
 [7. Electronic Circuit]()
   
 
