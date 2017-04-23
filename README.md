@@ -1,10 +1,21 @@
 # 영등포고등학교 기술수업 자료실
 
----
-## 강의영상자료  
-수업영상 링크를 제공합니다.  
+## 평가계획서  
 
-### 1학기  
+[평가계획서](https://docs.google.com/document/d/1V9jb1SQnP6yBP8RjLJkEJMhdNUnXPj9OtXckyWhrUKk/edit?usp=sharing)
+
+---
+
+## 선생님 관련 참고자료  
+[1. 기술샘시간표](https://docs.google.com/presentation/d/1Cvb758ILrGwJwOGEWjotMPziGf45rx0jRTh863w12dc/edit?usp=sharing)  
+[2. 수업진도표](https://docs.google.com/spreadsheets/d/1-CA9rqCuhi_lfbfPPH5vlXms9xTWV8lpVEOSls11wp0/edit?usp=sharing)  
+
+---
+
+## 1학기  
+
+### 강의영상자료  
+수업영상 링크를 제공합니다.  
 [0. EBS 소프트웨어](https://www.youtube.com/watch?v=0U0ve_HFUL8&index=1&list=PLvNzObWMMx6sOn-8v4n-03AvN0WJesphL)  
 [1. Open Source  SW/HW](https://youtu.be/uzxkh0Kuxw4)  
 [2. Arduino IDE Install](https://youtu.be/maocBcSlXoI)  
@@ -19,7 +30,7 @@
 [7. Electronic Circuit]()
   
 
-## 수업자료
+### 수업자료
 수업PPT와 스케치(프로그램) 링크를 제공합니다.  
 
 [1. Open Source SW & HW](https://1drv.ms/p/s!AuczxMq8lCmfq0-pgv_C1Km8T97M)  
@@ -37,17 +48,6 @@
  
 ---
 
-### 2학기  
+## 2학기  
   
 ---
-
-
-## 선생님 관련 참고자료  
-[1. 기술샘시간표](https://docs.google.com/presentation/d/1Cvb758ILrGwJwOGEWjotMPziGf45rx0jRTh863w12dc/edit?usp=sharing)  
-[2. 수업진도표](https://docs.google.com/spreadsheets/d/1-CA9rqCuhi_lfbfPPH5vlXms9xTWV8lpVEOSls11wp0/edit?usp=sharing)  
-
-
----
-## 평가계획서  
-
-[평가계획서]()
