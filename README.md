@@ -27,7 +27,8 @@
     [* 5-1. Mission Check](https://youtu.be/t2YHQMZ9MCQ)  
 [6. Pull Up, Pull Down Resistance](https://youtu.be/ecgleFgcQNU)  
     [* 6-1. Mission Check](https://youtu.be/5X80tPK4B-Q)   
-[7. Electronic Circuit]()
+[7. Electronic Circuit]( https://youtu.be/p3pGAYv6Gnc)  
+    [* 7-1. Mission Check]()   
   
 
 ### 수업자료
