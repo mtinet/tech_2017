@@ -27,7 +27,7 @@
     [* 5-1. Mission Check](https://youtu.be/t2YHQMZ9MCQ)  
 [6. Pull Up, Pull Down Resistance](https://youtu.be/ecgleFgcQNU)  
     [* 6-1. Mission Check](https://youtu.be/5X80tPK4B-Q)   
-[7. Electronic Circuit]( https://youtu.be/p3pGAYv6Gnc)  
+[7. Electronic Circuit, Tool, Resistance]( https://youtu.be/p3pGAYv6Gnc)  
     [* 7-1. Mission Check](https://youtu.be/UwO2OunTzso)   
   
 
@@ -44,7 +44,7 @@
     [* 5-2 CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)         
 [6. Pull Up, Pull Down Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1RA-P_Tt5kKG6gx)   
     [* 6-1 CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)  
-[7._Electronic Circuit, Tool, Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1kQgj0a6jpadmAf)   
+[7. Electronic Circuit, Tool, Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1kQgj0a6jpadmAf)   
     
  
 ---
