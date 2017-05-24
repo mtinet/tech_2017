@@ -48,11 +48,11 @@
     [* 6-1 CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)  
 [7. Electronic Circuit, Tool, Resistance Color Code](https://1drv.ms/p/s!AuczxMq8lCmfq1kQgj0a6jpadmAf)   
 [8. PWM, for, while](https://1drv.ms/p/s!AuczxMq8lCmfq2RLT8baXM8FC8GX)  
-    [* 8-1 for]()
-    [* 8-2 while]()
+    [* 8-1 for](https://github.com/mtinet/tech/blob/master/for/for.ino)  
+    [* 8-2 while](https://github.com/mtinet/tech/blob/master/while/while.ino)  
 [9. if, switch, map](https://1drv.ms/p/s!AuczxMq8lCmfq2W_PwXDT7_WdOs8)  
-    [* 9-1 if]()
-    [* 9-2 switch, map]()
+    [* 9-1 if](https://github.com/mtinet/tech/blob/master/if/if.ino)  
+    [* 9-2 switch, map](https://github.com/mtinet/tech/blob/master/switch_map_CdS/switch_map_CdS.ino)  
  
 ---
 
