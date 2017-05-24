@@ -12,16 +12,23 @@ void loop()
   int rate = analogRead(sensorpin);
   Serial.println(rate);
   
-  if(rate>30)
+  if(rate > 50)
   {
     digitalWrite(ledpin, HIGH);
   }
-  else
+  else if(rate > 30) 
   {
-
     digitalWrite(ledpin, HIGH);
     delay(50);               
     digitalWrite(ledpin, LOW);    
     delay(50);
+  }
+  
+  else 
+  {
+    digitalWrite(ledpin, HIGH);
+    delay(200);               
+    digitalWrite(ledpin, LOW);    
+    delay(200);
   }
 }
