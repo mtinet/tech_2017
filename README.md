@@ -29,6 +29,8 @@
     [* 6-1. Mission Check](https://youtu.be/5X80tPK4B-Q)   
 [7. Electronic Circuit, Tool, Resistance Color Code]( https://youtu.be/p3pGAYv6Gnc)  
     [* 7-1. Mission Check](https://youtu.be/UwO2OunTzso)  
+[8. PWM, for, while](https://youtu.be/08Ok14cSNq0)      
+[9. if, switch, map]()    
   
 
 ### 수업자료
@@ -45,7 +47,12 @@
 [6. Pull Up, Pull Down Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1RA-P_Tt5kKG6gx)   
     [* 6-1 CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)  
 [7. Electronic Circuit, Tool, Resistance Color Code](https://1drv.ms/p/s!AuczxMq8lCmfq1kQgj0a6jpadmAf)   
-    
+[8. PWM, for, while](https://1drv.ms/p/s!AuczxMq8lCmfq2RLT8baXM8FC8GX)  
+    [* 8-1 for]()
+    [* 8-2 while]()
+[9. if, switch, map](https://1drv.ms/p/s!AuczxMq8lCmfq2W_PwXDT7_WdOs8)  
+    [* 9-1 if]()
+    [* 9-2 switch, map]()
  
 ---
 
