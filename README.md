@@ -30,7 +30,7 @@
 [7. Electronic Circuit, Tool, Resistance Color Code]( https://youtu.be/p3pGAYv6Gnc)  
     [* 7-1. Mission Check](https://youtu.be/UwO2OunTzso)  
 [8. PWM, for, while](https://youtu.be/08Ok14cSNq0)      
-[9. if, switch, map]()    
+[9. if, switch, map](https://youtu.be/Fa2C02W4CYs)    
   
 
 ### 수업자료
