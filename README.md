@@ -32,7 +32,7 @@
 [8. PWM, for, while](https://youtu.be/08Ok14cSNq0)   
     [* 8-1. Mission Check](https://youtu.be/NLGZpe3iHcI)  
 [9. if, switch, map](https://youtu.be/Fa2C02W4CYs)   
-    [* 9-1. Mission Check]() 
+    [* 9-1. Mission Check](https://youtu.be/90OWJyGOvpg)  
   
 
 ### 수업자료
