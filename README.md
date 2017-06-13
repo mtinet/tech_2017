@@ -55,6 +55,10 @@
 [9. if, switch, map](https://1drv.ms/p/s!AuczxMq8lCmfq2bOxLBemiCEOLau)  
     [* 9-1 if](https://github.com/mtinet/tech/blob/master/if/if.ino)  
     [* 9-2 switch, map](https://github.com/mtinet/tech/blob/master/switch_map_CdS/switch_map_CdS.ino)  
+    
+    
+### 수행평가 PPT 수업자료    
+[수행평가 관련 PPT 수업자료 링크](https://1drv.ms/f/s!AuczxMq8lCmfrAZHLxWx3ZJe48Jl)  
  
 ---
 
