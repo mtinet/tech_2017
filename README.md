@@ -60,6 +60,10 @@
 ### 수행평가 PPT 수업자료    
 [수행평가 관련 PPT 수업자료 링크](https://1drv.ms/f/s!AuczxMq8lCmfrAZHLxWx3ZJe48Jl)  
  
+ 
+### 포트폴리오 작성방법 안내 영상([https://www.hackster.io](https://www.hackster.io))  
+[Hackster.io 사용방법안내](https://youtu.be/nYngAqM2AHQ)  
+ 
 ---
 
 ## 2학기  
