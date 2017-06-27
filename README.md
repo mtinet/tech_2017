@@ -2,7 +2,7 @@
 
 ## 1학기  
 
-### 수행평가 PPT 수업자료[연결링크](https://1drv.ms/f/s!AuczxMq8lCmfrAZHLxWx3ZJe48Jl)  
+### 수행평가 PPT 수업자료([연결링크](https://1drv.ms/f/s!AuczxMq8lCmfrAZHLxWx3ZJe48Jl))  
   
   
   
