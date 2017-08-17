@@ -11,9 +11,9 @@
 
 ### 강의영상자료  
 수업영상 링크를 제공합니다.  
-[0-1. 명견만리-4차 산업혁명은 어떤 인재를 원하는가]()  
-[0-2. 다보스의 선택-4차 산업혁명이 미래다](https://drive.google.com/open?id=0B_TKD_C5fEUBbHF6ODJSSmJPb1k)  
-[1. Library, Servo]()  
+[0-1. 명견만리-4차 산업혁명은 어떤 인재를 원하는가]()  
+[0-2. 다보스의 선택-4차 산업혁명이 미래다](https://drive.google.com/open?id=0B_TKD_C5fEUBbHF6ODJSSmJPb1k)  
+[1. Library, Servo]()  
 
 
 ### 수업자료  
