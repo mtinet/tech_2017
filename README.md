@@ -13,14 +13,17 @@
 수업영상 링크를 제공합니다.  
 [0-1. 명견만리-4차 산업혁명은 어떤 인재를 원하는가](https://drive.google.com/open?id=0B_TKD_C5fEUBWVVySGc4dWZBaTg)  
 [0-2. 다보스의 선택-4차 산업혁명이 미래다](https://drive.google.com/open?id=0B_TKD_C5fEUBbHF6ODJSSmJPb1k)  
-[1. Library, Servo]()  
-
+[10. Library, Servo](https://youtu.be/9-UYtlplfSA)  
+    [* 10-1. Mission Check](https://youtu.be/iT5hgQ_yp8E)  
+[11. Random, RGB LED]()  
+    [* 11-1 Mission Check]()  
 
 ### 수업자료  
 수업PPT와 스케치(프로그램) 링크를 제공합니다.  
-[1. Library, Servo]()  
-
-
+[10. Library, Servo](https://1drv.ms/p/s!AuczxMq8lCmfrEHOL8gvL7n4F7oc)  
+    [* 10-1 Library, Servo]()  
+[11. Random, RGB LED](https://1drv.ms/p/s!AuczxMq8lCmfrEJXKt6wgPZqfZet)  
+    [* 11-1 Random, RGB LED]()  
 
 ---
 
