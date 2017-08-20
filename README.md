@@ -21,7 +21,7 @@
 ### 수업자료  
 수업PPT와 스케치(프로그램) 링크를 제공합니다.  
 [10. Library, Servo](https://1drv.ms/p/s!AuczxMq8lCmfrEHOL8gvL7n4F7oc)  
-    [* 10-1 Library, Servo]()  
+    [* 10-1 Library, Servo](https://github.com/mtinet/tech/blob/master/CdS_servo/CdS_servo.ino)  
 [11. Random, RGB LED](https://1drv.ms/p/s!AuczxMq8lCmfrEJXKt6wgPZqfZet)  
     [* 11-1 Random, RGB LED]()  
 
