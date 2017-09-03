@@ -17,7 +17,7 @@
     [* 10-1. Mission Check](https://youtu.be/iT5hgQ_yp8E)  
 [11. Random, RGB LED](https://youtu.be/YL4NbdkU9Ko)  
     [* 11-1 Mission Check](https://youtu.be/mTYrUFhG2-A)  
-[12. code.org](www.code.org)  
+[12. code.org](code.org)  
 [13. Array, Dot Matrix Module]()  
     
 
