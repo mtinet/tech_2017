@@ -19,6 +19,7 @@
     [* 11-1 Mission Check](https://youtu.be/mTYrUFhG2-A)  
 [12. code.org](code.org)  
 [13. Array, Dot Matrix Module]()  
+    [* 13-1. Mission Check]()  
     
 
 ### 수업자료  
@@ -30,7 +31,7 @@
     [* 11-2 Random, RGB LED](https://github.com/mtinet/tech/blob/master/rgb_led_random_slow/rgb_led_random_slow.ino)  
 [12. code.org는 따로 자료 없음]()  
 [13. Array, Dot Matrix Module](https://1drv.ms/p/s!AuczxMq8lCmfrQ5pofG3KrnCAzek)  
-    [* 13. Array, Dot Matrix Module](https://github.com/mtinet/tech/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
+    [* 13-1. Array, Dot Matrix Module](https://github.com/mtinet/tech/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
 
 ---
 
