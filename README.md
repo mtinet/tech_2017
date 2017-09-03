@@ -28,7 +28,7 @@
 [11. Random, RGB LED](https://1drv.ms/p/s!AuczxMq8lCmfrEJXKt6wgPZqfZet)  
     [* 11-1 Blink](https://github.com/mtinet/tech/blob/master/blink/blink.ino)  
     [* 11-2 Random, RGB LED](https://github.com/mtinet/tech/blob/master/rgb_led_random_slow/rgb_led_random_slow.ino)  
-[12. code.org는따로자료없음]()  
+[12. code.org는 따로 자료 없음]()  
 [13. Array, Dot Matrix Module](https://1drv.ms/p/s!AuczxMq8lCmfrQ5pofG3KrnCAzek)  
 
 ---
