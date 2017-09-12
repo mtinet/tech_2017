@@ -23,15 +23,15 @@
     
 
 ### 수업자료  
-수업PPT와 스케치(프로그램) 링크를 제공합니다.  
-[10. PPT for Library, Servo](https://1drv.ms/p/s!AuczxMq8lCmfrEHOL8gvL7n4F7oc)  
-    [* 10-1 Sketch of Library, Servo](https://github.com/mtinet/tech/blob/master/CdS_servo/CdS_servo.ino)  
-[11. PPT for Random, RGB LED](https://1drv.ms/p/s!AuczxMq8lCmfrEJXKt6wgPZqfZet)  
-    [* 11-1 Sketch of Blink](https://github.com/mtinet/tech/blob/master/blink/blink.ino)  
-    [* 11-2 Sketch of Random, RGB LED](https://github.com/mtinet/tech/blob/master/rgb_led_random_slow/rgb_led_random_slow.ino)  
+수업PPT와 스케치(\*표) 링크를 제공합니다.  
+[10. Library, Servo](https://1drv.ms/p/s!AuczxMq8lCmfrEHOL8gvL7n4F7oc)  
+    [* 10-1.  Library, Servo](https://github.com/mtinet/tech/blob/master/CdS_servo/CdS_servo.ino)  
+[11. Random, RGB LED](https://1drv.ms/p/s!AuczxMq8lCmfrEJXKt6wgPZqfZet)  
+    [* 11-1. Blink](https://github.com/mtinet/tech/blob/master/blink/blink.ino)  
+    [* 11-2. Random, RGB LED](https://github.com/mtinet/tech/blob/master/rgb_led_random_slow/rgb_led_random_slow.ino)  
 [12. code.org](https://code.org)  
-[13. PPT for Array, Dot Matrix Module](https://1drv.ms/p/s!AuczxMq8lCmfrRpI3xLqESRxILyF)  
-    [* 13-1. Sketch of Array, Dot Matrix Module](https://github.com/mtinet/tech/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
+[13. Array, Dot Matrix Module](https://1drv.ms/p/s!AuczxMq8lCmfrRpI3xLqESRxILyF)  
+    [* 13-1. Array, Dot Matrix Module](https://github.com/mtinet/tech/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
 
 ---
 
@@ -66,22 +66,22 @@
 수업PPT와 스케치(프로그램) 링크를 제공합니다.  
 
 [1. Open Source SW & HW](https://1drv.ms/p/s!AuczxMq8lCmfq0-pgv_C1Km8T97M)  
-[2. PPT for Arduino IDE Install](https://1drv.ms/p/s!AuczxMq8lCmfq1BlMMDwVv7EU3HI)  
-[3. PPT for Blink](https://1drv.ms/p/s!AuczxMq8lCmfq1EOoLqqhV8pu-H1)  
-[4. PPT for Traffic Sign](https://1drv.ms/p/s!AuczxMq8lCmfq1Kkru-xYkOQcAFg)    
-    [* 4-1 Sketch of Traffic Sign](https://github.com/mtinet/tech/blob/master/Traffic_Sign/Traffic_Sign.ino)   
-[5. PPT for Sensing-Processing-Actuating, Serial Monitor](https://1drv.ms/p/s!AuczxMq8lCmfq1P1iJ33O50BxoAm)    
-    [* 5-1 Sketch of CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)   
-    [* 5-2 Sketch of CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)         
-[6. PPT for Pull Up, Pull Down Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1RA-P_Tt5kKG6gx)   
-    [* 6-1 Sketch of CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)  
-[7. PPT for Electronic Circuit, Tool, Resistance Color Code](https://1drv.ms/p/s!AuczxMq8lCmfq1kQgj0a6jpadmAf)   
-[8. PPT for PWM, for, while](https://1drv.ms/p/s!AuczxMq8lCmfq2RLT8baXM8FC8GX)  
-    [* 8-1 Sketch of for](https://github.com/mtinet/tech/blob/master/for/for.ino)  
-    [* 8-2 Sketch of while](https://github.com/mtinet/tech/blob/master/while/while.ino)  
-[9. PPT for if, switch, map](https://1drv.ms/p/s!AuczxMq8lCmfq2bOxLBemiCEOLau)  
-    [* 9-1 Sketch of if](https://github.com/mtinet/tech/blob/master/if/if.ino)  
-    [* 9-2 Sketch of switch, map](https://github.com/mtinet/tech/blob/master/switch_map_CdS/switch_map_CdS.ino)  
+[2. Arduino IDE Install](https://1drv.ms/p/s!AuczxMq8lCmfq1BlMMDwVv7EU3HI)  
+[3. Blink](https://1drv.ms/p/s!AuczxMq8lCmfq1EOoLqqhV8pu-H1)  
+[4. Traffic Sign](https://1drv.ms/p/s!AuczxMq8lCmfq1Kkru-xYkOQcAFg)    
+    [* 4-1. Traffic Sign](https://github.com/mtinet/tech/blob/master/Traffic_Sign/Traffic_Sign.ino)   
+[5. Sensing-Processing-Actuating, Serial Monitor](https://1drv.ms/p/s!AuczxMq8lCmfq1P1iJ33O50BxoAm)    
+    [* 5-1. CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)   
+    [* 5-2. CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)         
+[6. Pull Up, Pull Down Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1RA-P_Tt5kKG6gx)   
+    [* 6-1. CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)  
+[7. Electronic Circuit, Tool, Resistance Color Code](https://1drv.ms/p/s!AuczxMq8lCmfq1kQgj0a6jpadmAf)   
+[8. PWM, for, while](https://1drv.ms/p/s!AuczxMq8lCmfq2RLT8baXM8FC8GX)  
+    [* 8-1. for](https://github.com/mtinet/tech/blob/master/for/for.ino)  
+    [* 8-2. while](https://github.com/mtinet/tech/blob/master/while/while.ino)  
+[9. if, switch, map](https://1drv.ms/p/s!AuczxMq8lCmfq2bOxLBemiCEOLau)  
+    [* 9-1. if](https://github.com/mtinet/tech/blob/master/if/if.ino)  
+    [* 9-2. switch, map](https://github.com/mtinet/tech/blob/master/switch_map_CdS/switch_map_CdS.ino)  
     
     
 ### 수행평가 PPT 수업자료([연결링크](https://1drv.ms/f/s!AuczxMq8lCmfrAZHLxWx3ZJe48Jl))  
