@@ -20,6 +20,8 @@
 [12. code.org](https://youtu.be/kF1R0ol_4as)  
 [13. Array, Dot Matrix Module](https://youtu.be/3twMNoUQ_qU)  
     [* 13-1. Mission Check](https://youtu.be/imQxSfIOCCE)  
+[14. Relay](https://youtu.be/wZJxQx74ptU)  
+
     
 
 ### 수업자료  
@@ -32,6 +34,8 @@
 [12. code.org](https://code.org)  
 [13. Array, Dot Matrix Module](https://1drv.ms/p/s!AuczxMq8lCmfrRpI3xLqESRxILyF)  
     [* 13-1. Array, Dot Matrix Module](https://github.com/mtinet/tech/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
+[14. Relay]()  
+    [*14. Relay]()
 
 ---
 
