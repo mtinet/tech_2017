@@ -21,7 +21,7 @@
 [13. Array, Dot Matrix Module](https://youtu.be/3twMNoUQ_qU)  
     [* 13-1. Mission Check](https://youtu.be/imQxSfIOCCE)  
 [14. Relay](https://youtu.be/wZJxQx74ptU)  
-    [14. Mission Check]()  
+    [* 14. Mission Check]()  
 
 
     
