@@ -21,10 +21,10 @@
 [12. code.org](https://youtu.be/kF1R0ol_4as)  
 [13. Array, Dot Matrix Module](https://youtu.be/3twMNoUQ_qU)  
     [* 13-1. Mission Check](https://youtu.be/imQxSfIOCCE)  
-[14. Relay](https://youtu.be/wZJxQx74ptU)  
+[14-1. Relay](https://youtu.be/wZJxQx74ptU)  
     [* 14. Mission Check]()  
 [15. Bluetooth]()  
-    [* 15. Mission Check]()      
+    [* 15-1. Mission Check]()      
 
 
     
