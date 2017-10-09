@@ -23,8 +23,8 @@
     [* 13-1. Mission Check](https://youtu.be/imQxSfIOCCE)  
 [14. Relay](https://youtu.be/wZJxQx74ptU)  
     [* 14-1. Mission Check](https://youtu.be/4il1q8su0lw)  
-[15. Bluetooth]()  
-    [* 15-1. Mission Check]()      
+[15. Bluetooth](https://youtu.be/CAUxv2uuovY)  
+    [* 15-1. Mission Check](https://youtu.be/QEl8ShzYd9U)      
 
 
     
