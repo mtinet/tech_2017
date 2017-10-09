@@ -2,7 +2,7 @@
 
 int bluetoothTx = 2;
 int bluetoothRx = 3;
-int led=4;
+int led = 13;
 
 SoftwareSerial bluetooth(bluetoothTx, bluetoothRx);
 
