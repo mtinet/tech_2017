@@ -42,9 +42,8 @@
     [* 13-1. Array, Dot Matrix Module](https://github.com/mtinet/tech/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
 [14. Relay](https://1drv.ms/p/s!AuczxMq8lCmfrTMvJQIZ2KERGVcg)  
     [*14-1. Relay](https://github.com/mtinet/tech/blob/master/_220_control/_220_control.ino)  
-    
-[15. Bluetooth](https://1drv.ms/p/s!AuczxMq8lCmfrTX05JTsrZnXtj2P)  
 
+[15. Bluetooth](https://1drv.ms/p/s!AuczxMq8lCmfrTX05JTsrZnXtj2P)  
     [*15-1.changeBluetoothName](https://github.com/mtinet/tech/blob/master/changeBluetoothName/changeBluetoothName.ino)  
     [*15-2.Bluetooth](https://github.com/mtinet/tech/blob/master/bluetooth_ledcontrol/bluetooth_ledcontrol.ino)  
 
