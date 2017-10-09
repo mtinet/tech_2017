@@ -44,7 +44,10 @@
     [*14. Relay](https://github.com/mtinet/tech/blob/master/_220_control/_220_control.ino)  
 
 [15. Bluetooth]()  
-    [*15.Bluetooth]()
+    [*15.Bluetooth]()  
+
+
+
 ---
 
 
