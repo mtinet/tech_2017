@@ -8,9 +8,11 @@ void setup() {
 }
 
 void loop() {
-  if (BTSerial.available())
+  if (BTSerial.available()) {
    Serial.write(BTSerial.read());
+  }
   
-  if (Serial.available())
+  if (Serial.available()) {
    BTSerial.write(Serial.read());
+  }  
 }
