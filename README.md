@@ -14,8 +14,8 @@
   
   
  
-### 포트폴리오 작성방법 안내 영상([https://www.hackster.io](https://www.hackster.io))  
-[Hackster.io 사용방법안내](https://youtu.be/nYngAqM2AHQ)  
+### 포트폴리오 작성방법 안내([https://www.hackster.io](https://www.hackster.io))  
+[Hackster.io 사용방법안내 영상](https://youtu.be/nYngAqM2AHQ)  
 - 'TEAM'에서 'Juhyun Kim(mtinet)'을찾아추가합니다.  
 - 완료된 포트폴리오는 링크를 복사하여 선생님 휴대폰(010-9483-2362)으로 문자를 보냅니다.  
   
