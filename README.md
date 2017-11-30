@@ -25,7 +25,7 @@
 ### 제출한 조별 자료 확인([연결링크](https://docs.google.com/spreadsheets/d/10H9fu0rJwKSyoS4KufnWgRSs16xdrpo9ohTax1G4e4A/edit?usp=sharing))
   
   
-
+---
 ### 강의영상자료  
 
 수업영상 링크를 제공합니다.  
