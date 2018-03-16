@@ -34,18 +34,18 @@
 
 수업PPT와 스케치(\*표) 링크를 제공합니다.  
 [10. Library, Servo](https://1drv.ms/p/s!AuczxMq8lCmfrEHOL8gvL7n4F7oc)  
-    [* 10-1.  Library, Servo](https://github.com/mtinet/tech/blob/master/CdS_servo/CdS_servo.ino)  
+    [* 10-1.  Library, Servo](https://github.com/mtinet/tech_2017/blob/master/CdS_servo/CdS_servo.ino)  
 [11. Random, RGB LED](https://1drv.ms/p/s!AuczxMq8lCmfrEJXKt6wgPZqfZet)  
-    [* 11-1. Blink](https://github.com/mtinet/tech/blob/master/blink/blink.ino)  
-    [* 11-2. Random, RGB LED](https://github.com/mtinet/tech/blob/master/rgb_led_random_slow/rgb_led_random_slow.ino)  
+    [* 11-1. Blink](https://github.com/mtinet/./blob/master/blink/blink.ino)  
+    [* 11-2. Random, RGB LED](https://github.com/mtinet/tech_2017/blob/master/rgb_led_random_slow/rgb_led_random_slow.ino)  
 [12. code.org](https://code.org)  
 [13. Array, Dot Matrix Module](https://1drv.ms/p/s!AuczxMq8lCmfrRpI3xLqESRxILyF)  
-    [* 13-1. Array, Dot Matrix Module](https://github.com/mtinet/tech/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
+    [* 13-1. Array, Dot Matrix Module](https://github.com/mtinet/tech_2017/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
 [14. Relay](https://1drv.ms/p/s!AuczxMq8lCmfrTMvJQIZ2KERGVcg)  
-    [* 14-1. Relay](https://github.com/mtinet/tech/blob/master/_220_control/_220_control.ino)  
+    [* 14-1. Relay](https://github.com/mtinet/tech_2017/blob/master/_220_control/_220_control.ino)  
 [15. Bluetooth](https://1drv.ms/p/s!AuczxMq8lCmfrTX05JTsrZnXtj2P)  
-    [* 15-1. changeBluetoothName](https://github.com/mtinet/tech/blob/master/changeBluetoothName/changeBluetoothName.ino)  
-    [* 15-2. Bluetooth](https://github.com/mtinet/tech/blob/master/bluetooth_ledcontrol/bluetooth_ledcontrol.ino)  
+    [* 15-1. changeBluetoothName](https://github.com/mtinet/tech_2017/blob/master/changeBluetoothName/changeBluetoothName.ino)  
+    [* 15-2. Bluetooth](https://github.com/mtinet/tech_2017/blob/master/bluetooth_ledcontrol/bluetooth_ledcontrol.ino)  
 
 
 
@@ -98,19 +98,19 @@
 [2. Arduino IDE Install](https://1drv.ms/p/s!AuczxMq8lCmfq1BlMMDwVv7EU3HI)  
 [3. Blink](https://1drv.ms/p/s!AuczxMq8lCmfq1EOoLqqhV8pu-H1)  
 [4. Traffic Sign](https://1drv.ms/p/s!AuczxMq8lCmfq1Kkru-xYkOQcAFg)    
-    [* 4-1. Traffic Sign](https://github.com/mtinet/tech/blob/master/Traffic_Sign/Traffic_Sign.ino)   
+    [* 4-1. Traffic Sign](https://github.com/mtinet/tech_2017/blob/master/Traffic_Sign/Traffic_Sign.ino)   
 [5. Sensing-Processing-Actuating, Serial Monitor](https://1drv.ms/p/s!AuczxMq8lCmfq1P1iJ33O50BxoAm)    
-    [* 5-1. CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)   
-    [* 5-2. CdS LED](https://github.com/mtinet/tech/blob/master/CdS_led/CdS_led.ino)         
+    [* 5-1. CdS Test](https://github.com/mtinet/tech_2017/blob/master/CdS_test/CdS_test.ino)   
+    [* 5-2. CdS LED](https://github.com/mtinet/tech_2017/blob/master/CdS_led/CdS_led.ino)         
 [6. Pull Up, Pull Down Resistance](https://1drv.ms/p/s!AuczxMq8lCmfq1RA-P_Tt5kKG6gx)   
-    [* 6-1. CdS Test](https://github.com/mtinet/tech/blob/master/CdS_test/CdS_test.ino)  
+    [* 6-1. CdS Test](https://github.com/mtinet/tech_2017/blob/master/CdS_test/CdS_test.ino)  
 [7. Electronic Circuit, Tool, Resistance Color Code](https://1drv.ms/p/s!AuczxMq8lCmfq1kQgj0a6jpadmAf)   
 [8. PWM, for, while](https://1drv.ms/p/s!AuczxMq8lCmfq2RLT8baXM8FC8GX)  
-    [* 8-1. for](https://github.com/mtinet/tech/blob/master/for/for.ino)  
-    [* 8-2. while](https://github.com/mtinet/tech/blob/master/while/while.ino)  
+    [* 8-1. for](https://github.com/mtinet/tech_2017/blob/master/for/for.ino)  
+    [* 8-2. while](https://github.com/mtinet/tech_2017/blob/master/while/while.ino)  
 [9. if, switch, map](https://1drv.ms/p/s!AuczxMq8lCmfq2bOxLBemiCEOLau)  
-    [* 9-1. if](https://github.com/mtinet/tech/blob/master/if/if.ino)  
-    [* 9-2. switch, map](https://github.com/mtinet/tech/blob/master/switch_map_CdS/switch_map_CdS.ino)  
+    [* 9-1. if](https://github.com/mtinet/tech_2017/blob/master/if/if.ino)  
+    [* 9-2. switch, map](https://github.com/mtinet/tech_2017/blob/master/switch_map_CdS/switch_map_CdS.ino)  
     
     
 ---
