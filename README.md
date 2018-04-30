@@ -7,64 +7,6 @@
 ---
 
 
-## 2학기   
-
-
-### 강의영상자료  
-
-수업영상 링크를 제공합니다.  
-[0-1. 명견만리-4차 산업혁명은 어떤 인재를 원하는가](https://drive.google.com/open?id=0B_TKD_C5fEUBWVVySGc4dWZBaTg)  
-[0-2. 다보스의 선택-4차 산업혁명이 미래다](https://drive.google.com/open?id=0B_TKD_C5fEUBbHF6ODJSSmJPb1k)  
-[10. Library, Servo](https://youtu.be/9-UYtlplfSA)  
-    [* 10-1. Mission Check](https://youtu.be/iT5hgQ_yp8E)  
-[11. Random, RGB LED](https://youtu.be/YL4NbdkU9Ko)  
-    [* 11-1 Mission Check](https://youtu.be/mTYrUFhG2-A)  
-[12. code.org](https://youtu.be/kF1R0ol_4as)  
-[13. Array, Dot Matrix Module](https://youtu.be/3twMNoUQ_qU)  
-    [* 13-1. Mission Check](https://youtu.be/imQxSfIOCCE)  
-[14. Relay](https://youtu.be/wZJxQx74ptU)  
-    [* 14-1. Mission Check](https://youtu.be/4il1q8su0lw)  
-[15. Bluetooth](https://youtu.be/CAUxv2uuovY)  
-    [* 15-1. Mission Check](https://youtu.be/QEl8ShzYd9U)      
-
-
-    
-
-### 수업자료  
-
-수업PPT와 스케치(\*표) 링크를 제공합니다.  
-[10. Library, Servo](https://1drv.ms/p/s!AuczxMq8lCmfrEHOL8gvL7n4F7oc)  
-    [* 10-1.  Library, Servo](https://github.com/mtinet/tech_2017/blob/master/CdS_servo/CdS_servo.ino)  
-[11. Random, RGB LED](https://1drv.ms/p/s!AuczxMq8lCmfrEJXKt6wgPZqfZet)  
-    [* 11-1. Blink](https://github.com/mtinet/./blob/master/blink/blink.ino)  
-    [* 11-2. Random, RGB LED](https://github.com/mtinet/tech_2017/blob/master/rgb_led_random_slow/rgb_led_random_slow.ino)  
-[12. code.org](https://code.org)  
-[13. Array, Dot Matrix Module](https://1drv.ms/p/s!AuczxMq8lCmfrRpI3xLqESRxILyF)  
-    [* 13-1. Array, Dot Matrix Module](https://github.com/mtinet/tech_2017/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
-[14. Relay](https://1drv.ms/p/s!AuczxMq8lCmfrTMvJQIZ2KERGVcg)  
-    [* 14-1. Relay](https://github.com/mtinet/tech_2017/blob/master/_220_control/_220_control.ino)  
-[15. Bluetooth](https://1drv.ms/p/s!AuczxMq8lCmfrTX05JTsrZnXtj2P)  
-    [* 15-1. changeBluetoothName](https://github.com/mtinet/tech_2017/blob/master/changeBluetoothName/changeBluetoothName.ino)  
-    [* 15-2. Bluetooth](https://github.com/mtinet/tech_2017/blob/master/bluetooth_ledcontrol/bluetooth_ledcontrol.ino)  
-
-
-
-### 수행평가 PPT 수업자료([연결링크](https://1drv.ms/f/s!AuczxMq8lCmfrAZHLxWx3ZJe48Jl))  
-    
-   
-### 포트폴리오 작성방법 안내([https://www.hackster.io](https://www.hackster.io))  
-[Hackster.io 사용방법안내 영상](https://youtu.be/nYngAqM2AHQ)  
-- 'TEAM'에서 'Juhyun Kim(mtinet)'을찾아추가합니다.  
-- 완료된 포트폴리오는 링크를 복사하여 선생님 휴대폰(010-9483-2362)으로 문자를 보냅니다.  
-  
-  
-
-### 제출한 조별 자료 확인([연결링크](https://docs.google.com/spreadsheets/d/154FSjqKKyW1cJJWsc9JLuZsTHOKdcaKXtFV68qgy41s/edit?usp=sharing))
-
-
----
-
-
 
 ## 1학기  
 
@@ -124,6 +66,67 @@
   
   
 ### 제출한 조별 자료 확인([연결링크](https://docs.google.com/spreadsheets/d/10H9fu0rJwKSyoS4KufnWgRSs16xdrpo9ohTax1G4e4A/edit?usp=sharing))
+
+
+
+---
+
+
+## 2학기   
+
+
+### 강의영상자료  
+
+수업영상 링크를 제공합니다.  
+[0-1. 명견만리-4차 산업혁명은 어떤 인재를 원하는가](https://drive.google.com/open?id=0B_TKD_C5fEUBWVVySGc4dWZBaTg)  
+[0-2. 다보스의 선택-4차 산업혁명이 미래다](https://drive.google.com/open?id=0B_TKD_C5fEUBbHF6ODJSSmJPb1k)  
+[10. Library, Servo](https://youtu.be/9-UYtlplfSA)  
+    [* 10-1. Mission Check](https://youtu.be/iT5hgQ_yp8E)  
+[11. Random, RGB LED](https://youtu.be/YL4NbdkU9Ko)  
+    [* 11-1 Mission Check](https://youtu.be/mTYrUFhG2-A)  
+[12. code.org](https://youtu.be/kF1R0ol_4as)  
+[13. Array, Dot Matrix Module](https://youtu.be/3twMNoUQ_qU)  
+    [* 13-1. Mission Check](https://youtu.be/imQxSfIOCCE)  
+[14. Relay](https://youtu.be/wZJxQx74ptU)  
+    [* 14-1. Mission Check](https://youtu.be/4il1q8su0lw)  
+[15. Bluetooth](https://youtu.be/CAUxv2uuovY)  
+    [* 15-1. Mission Check](https://youtu.be/QEl8ShzYd9U)      
+
+
+    
+
+### 수업자료  
+
+수업PPT와 스케치(\*표) 링크를 제공합니다.  
+[10. Library, Servo](https://1drv.ms/p/s!AuczxMq8lCmfrEHOL8gvL7n4F7oc)  
+    [* 10-1.  Library, Servo](https://github.com/mtinet/tech_2017/blob/master/CdS_servo/CdS_servo.ino)  
+[11. Random, RGB LED](https://1drv.ms/p/s!AuczxMq8lCmfrEJXKt6wgPZqfZet)  
+    [* 11-1. Blink](https://github.com/mtinet/./blob/master/blink/blink.ino)  
+    [* 11-2. Random, RGB LED](https://github.com/mtinet/tech_2017/blob/master/rgb_led_random_slow/rgb_led_random_slow.ino)  
+[12. code.org](https://code.org)  
+[13. Array, Dot Matrix Module](https://1drv.ms/p/s!AuczxMq8lCmfrRpI3xLqESRxILyF)  
+    [* 13-1. Array, Dot Matrix Module](https://github.com/mtinet/tech_2017/blob/master/LCDemoMatrix_simple_Juhyun/LCDemoMatrix_simple_Juhyun.ino)  
+[14. Relay](https://1drv.ms/p/s!AuczxMq8lCmfrTMvJQIZ2KERGVcg)  
+    [* 14-1. Relay](https://github.com/mtinet/tech_2017/blob/master/_220_control/_220_control.ino)  
+[15. Bluetooth](https://1drv.ms/p/s!AuczxMq8lCmfrTX05JTsrZnXtj2P)  
+    [* 15-1. changeBluetoothName](https://github.com/mtinet/tech_2017/blob/master/changeBluetoothName/changeBluetoothName.ino)  
+    [* 15-2. Bluetooth](https://github.com/mtinet/tech_2017/blob/master/bluetooth_ledcontrol/bluetooth_ledcontrol.ino)  
+
+
+
+### 수행평가 PPT 수업자료([연결링크](https://1drv.ms/f/s!AuczxMq8lCmfrAZHLxWx3ZJe48Jl))  
+    
+   
+### 포트폴리오 작성방법 안내([https://www.hackster.io](https://www.hackster.io))  
+[Hackster.io 사용방법안내 영상](https://youtu.be/nYngAqM2AHQ)  
+- 'TEAM'에서 'Juhyun Kim(mtinet)'을찾아추가합니다.  
+- 완료된 포트폴리오는 링크를 복사하여 선생님 휴대폰(010-9483-2362)으로 문자를 보냅니다.  
+  
+  
+
+### 제출한 조별 자료 확인([연결링크](https://docs.google.com/spreadsheets/d/154FSjqKKyW1cJJWsc9JLuZsTHOKdcaKXtFV68qgy41s/edit?usp=sharing))
+
+
 
   
 ---
