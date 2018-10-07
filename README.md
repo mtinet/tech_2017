@@ -101,7 +101,7 @@
 [10. Library, Servo](https://1drv.ms/p/s!AuczxMq8lCmfrEHOL8gvL7n4F7oc)  
     [* 10-1.  Library, Servo](https://github.com/mtinet/tech_2017/blob/master/CdS_servo/CdS_servo.ino)  
 [11. Random, RGB LED](https://1drv.ms/p/s!AuczxMq8lCmfrEJXKt6wgPZqfZet)  
-    [* 11-1. Blink](https://github.com/mtinet/./blob/master/blink/blink.ino)  
+    [* 11-1. Blink](https://github.com/mtinet/tech_2017/blob/master/blink/blink.ino)  
     [* 11-2. Random, RGB LED](https://github.com/mtinet/tech_2017/blob/master/rgb_led_random_slow/rgb_led_random_slow.ino)  
 [12. code.org](https://code.org)  
 [13. Array, Dot Matrix Module](https://1drv.ms/p/s!AuczxMq8lCmfrRpI3xLqESRxILyF)  
